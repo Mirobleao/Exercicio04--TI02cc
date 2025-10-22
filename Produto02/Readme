@@ -1,0 +1,29 @@
+Num de Pessoa: 1596147
+Aluno: Miro Brito de Arêa Leão
+
+# Produto 2 — Banco de Dados PostgreSQL no Azure
+
+Servidor: ex4-ti2.postgres.database.azure.com  
+Banco: lojateste  
+Usuário: adm
+
+## IMAGENS:
+
+1. **Visão Geral do Recurso** —  nome do servidor (URL) e seu a conta no Azure.
+
+![Visão Geral](prod02-GeralRecursos.png)
+
+![URL do Servidor](prod02-URLservidor.png)
+
+
+2. **Query executada com sucesso** — conexão ativa com o banco de dados e o resultado de uma query SQL de seleção (select).
+
+![Criação DATABASE](prod02-criação-DATABASE.png)
+
+![Criação DATABASE](prod02-conexão-ativa.png)
+
+
+**Resumo:**  
+- Servidor criado com sucesso no Azure.  
+- Banco de dados funcional e testado.  
+- Query executada com resultado confirmado.
