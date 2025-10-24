@@ -9,18 +9,22 @@ Usuário: adm
 
 ## IMAGENS:
 
-1. **Visão Geral do Recurso** —  nome do servidor (URL) e seu a conta no Azure.
+1. **Visão Geral do Recurso** —  nome do servidor (URL) e suaa conta no Azure.
 
+- Mostra a visão geral do servidor
 ![Visão Geral](prod02-GeralRecursos.png)
 
+- Mostra especificamente a url do servidor criado
 ![URL do Servidor](prod02-URLservidor.png)
 
 
 2. **Query executada com sucesso** — conexão ativa com o banco de dados e o resultado de uma query SQL de seleção (select).
 
+- Mostra a criação da DATABASE por meio do PowerShell da Azure
 ![Criação DATABASE](prod02-criação-DATABASE.png)
 
-![Criação DATABASE](prod02-conexão-ativa.png)
+- Mostra a conexão ativa com o BD, mostrando um insert e select da tabela funcionando
+![conexão ativa](prod02-conexão-ativa.png)
 
 
 **Resumo:**  
