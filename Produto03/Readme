@@ -1,0 +1,25 @@
+Num de Pessoa: 1596147
+Aluno: Miro Brito de Arêa Leão
+
+# Produto 3 — Crie, publique e use modelos (Azure + Java)
+
+### 1: Criação do Serviço no Azure
+
+- Recurso criado no portal do Azure, com nome, grupo de recursos, região e endpoint.
+
+![Visão Geral do Recurso](prints/Prod03-Evid01.png)
+
+-  Mostra as chaves (ocultas) e o ponto de extremidade (endpoint) do serviço no Azure.
+
+![Visão Geral do Recurso](prints/Prod03-Evid02.png)
+
+
+
+### 2: Código Java da aplicação consumindo o modelo em núvem.
+
+- Print da Execução do código java com o resultado da API
+
+![Visão Geral do Recurso](prints/Prod03-javaResult.png)
+
+
+
